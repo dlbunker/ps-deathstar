@@ -1,0 +1,2 @@
+class Tungsten < Metal
+end

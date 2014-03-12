@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  density: 9.99
+  melting_point: 9.99
+  hardness: 9.99
+  type: 
+
+two:
+  density: 9.99
+  melting_point: 9.99
+  hardness: 9.99
+  type: 
